@@ -2236,7 +2236,8 @@ input[type="radio"] + label:before {
 }
 
 .image.avatar {
-  border-radius: 100%;
+  border-radius: 20%;
+  height: 300px;
 }
 
 .image.avatar:before {
@@ -2244,8 +2245,8 @@ input[type="radio"] + label:before {
 }
 
 .image.avatar img {
-  border-radius: 100%;
-  width: 100%;
+  border-radius: 40.5%;
+  width: 110%;
 }
 
 /* List */
@@ -2745,7 +2746,7 @@ input[type="button"]:disabled,
 }
 
 #header .image.avatar {
-  margin: 0 0 5em 0;
+  margin: auto;
   width: 50%;
 }
 
