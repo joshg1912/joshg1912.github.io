@@ -403,7 +403,7 @@ pre code {
   display: flex;
   flex-wrap: wrap;
   box-sizing: border-box;
-  align-items: stretch;
+  align-items: baseline;
   color: #cac3c3;
 }
 
